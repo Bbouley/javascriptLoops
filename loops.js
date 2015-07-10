@@ -14,5 +14,12 @@ for (var i = 9; i >= 0; i -= 1)
 console.log(i);
 
 for (var i = 0; i < 5; i ++)
-var triple = i * 3
-console.log(triple);
+console.log(i);
+
+for (var i = 0; i < 5; i ++)
+for (var x = 0; x <3; x++)
+console.log(i);
+
+for (var i = 0; i<4 ; i++)
+for (var x = 0; x<5; i++)
+console.log(x)
