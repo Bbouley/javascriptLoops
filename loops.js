@@ -21,5 +21,5 @@ for (var x = 0; x <3; x++)
 console.log(i);
 
 for (var i = 0; i<4 ; i++)
-for (var x = 0; x<5; i++)
+for (var x = 0; x<5; x++)
 console.log(x)
